@@ -10,7 +10,7 @@ srcclr activate
 srcclr scan --url https://github.com/srcclr/example-java-gradle
 ```
 
-## With SourceClear's Gradle Plugin
+## With SourceClear's Gradle 
 ```
 git clone https://github.com/srcclr/example-java-gradle
 cd example-java-gradle
