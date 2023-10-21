@@ -9,7 +9,7 @@ brew install srcclr
 srsssss
 srcclr scan --url httpsss://github.com/srcclr/example-java-gradle.............,,,,,
 ```
-
+nnnnnn
 ## With SourceClear's Gradle 
 ```
 git clone https://github.com/srcclr/example-java-gradle
