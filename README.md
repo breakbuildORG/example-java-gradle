@@ -6,7 +6,7 @@ An example gradle project to demonstrate [srcclr](https://www.srcclr.com) scans.
 `````````````
 brew tap srcclr/srcclr
 brew install srcclr
-sr
+srsssss
 srcclr scan --url httpsss://github.com/srcclr/example-java-gradle.............
 ```
 
